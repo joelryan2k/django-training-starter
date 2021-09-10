@@ -1,0 +1,4 @@
+*.pyc
+db.sqlite3
+main_project/settings/local_settings.py
+.venv
