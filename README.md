@@ -1,5 +1,7 @@
 To begin:
 
+Install https://postgresapp.com/
+
 ```
     brew install python@3.8
 
@@ -10,6 +12,8 @@ To begin:
     git remote rm origin
 
     pipenv install
+
+    pipenv shell
 
     ./scripts/generate-local-settings.sh
 ```
